@@ -1,0 +1,7 @@
+GET http://localhost:3000/todos/
+
+GET http://localhost:3000/todos/1/
+
+GET http://localhost:3000/agenda/
+
+POST http://localhost:3000/todos/
